@@ -1,3 +1,4 @@
 # my-website
 Hello hows you
-Tring changes
+Trying changes
+Now a way ahead practise needed
