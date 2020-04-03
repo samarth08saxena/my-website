@@ -1,5 +1,4 @@
 # my-website
 Hello hows you
-Trying changes
-Now a way ahead practise needed
-Hello
+
+Good and you?
